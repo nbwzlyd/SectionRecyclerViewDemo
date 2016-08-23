@@ -1,0 +1,703 @@
+{
+  "allTagsList": [
+    {
+      "tagsName": "热门品牌",
+      "tagsId": "20",
+      "tagInfoList": [
+        {
+          "HotelLevels": [],
+          "tagType": "5",
+          "tagName": "汉庭",
+          "tagId": "487",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "5",
+          "tagName": "7天",
+          "tagId": "8",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "5",
+          "tagName": "如家",
+          "tagId": "2",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "5",
+          "tagName": "速8",
+          "tagId": "1",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "5",
+          "tagName": "锦江之星",
+          "tagId": "7",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "5",
+          "tagName": "飘HOME",
+          "tagId": "64",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "5",
+          "tagName": "海友",
+          "tagId": "8780",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "5",
+          "tagName": "锦江",
+          "tagId": "8792",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "5",
+          "tagName": "世纪金源",
+          "tagId": "232",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        }
+      ]
+    },
+    {
+      "tagsName": "商业区",
+      "tagsId": "4",
+      "tagInfoList": [
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "天安门商圈",
+          "tagId": "8107",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "中关村商圈",
+          "tagId": "8100",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "西直门商圈",
+          "tagId": "8102",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "前门/崇文门",
+          "tagId": "8119",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "首都机场地区",
+          "tagId": "8103",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "西单/金融街",
+          "tagId": "8098",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "奥体中心地区",
+          "tagId": "8099",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "公主坟商圈",
+          "tagId": "8108",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "西站/丽泽区",
+          "tagId": "8109",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "国贸地区",
+          "tagId": "8112",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "东直门/工体",
+          "tagId": "8127",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "南站/永定门",
+          "tagId": "8118",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "建国门区域",
+          "tagId": "8111",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "劲松/潘家园",
+          "tagId": "8123",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "三里屯商圈",
+          "tagId": "8126",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "2",
+          "tagName": "国展区域",
+          "tagId": "8095",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        }
+      ]
+    },
+    {
+      "tagsName": "热门景点",
+      "tagsId": "5",
+      "tagInfoList": [
+        {
+          "HotelLevels": [],
+          "tagType": "1",
+          "tagName": "天安门",
+          "tagId": "251",
+          "latlon": "39.91489679,116.40389967",
+          "lat": "116.40389967",
+          "lon": "39.91489679"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "1",
+          "tagName": "故宫",
+          "tagId": "680",
+          "latlon": "39.92176165,116.40342882",
+          "lat": "116.40342882",
+          "lon": "39.92176165"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "北京欢乐谷",
+          "tagId": "372748",
+          "latlon": "116.48433,39.86781",
+          "lat": "39.86781",
+          "lon": "116.48433"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "北京欢乐水魔方水上乐园",
+          "tagId": "1092000",
+          "latlon": "116.24248,39.88556",
+          "lat": "39.88556",
+          "lon": "116.24248"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "北京植物园",
+          "tagId": "15865",
+          "latlon": "116.19798,40.00118",
+          "lat": "40.00118",
+          "lon": "116.19798"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "北京动物园",
+          "tagId": "15234",
+          "latlon": "116.32904,39.93786",
+          "lat": "39.93786",
+          "lon": "116.32904"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "颐和园",
+          "tagId": "15936",
+          "latlon": "116.26025,39.99241",
+          "lat": "39.99241",
+          "lon": "116.26025"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "圆明园",
+          "tagId": "1075741",
+          "latlon": "116.29783,39.99851",
+          "lat": "39.99851",
+          "lon": "116.29783"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "天坛",
+          "tagId": "36095",
+          "latlon": "116.40217,39.88316",
+          "lat": "39.88316",
+          "lon": "116.40217"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "北京香山",
+          "tagId": "22848",
+          "latlon": "116.21562,39.99663",
+          "lat": "39.99663",
+          "lon": "116.21562"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "八达岭长城",
+          "tagId": "380956",
+          "latlon": "116.00239,40.3589",
+          "lat": "40.3589",
+          "lon": "116.00239"
+        },
+        {
+          "tagName": "世界花卉大观园"
+        },
+        {
+          "tagName": "十三陵"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "鸟巢",
+          "tagId": "390784",
+          "latlon": "116.38683,39.99047",
+          "lat": "39.99047",
+          "lon": "116.38683"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "王府井商业街",
+          "tagId": "137063",
+          "latlon": "116.40128,39.90857",
+          "lat": "39.90857",
+          "lon": "116.40128"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "南锣鼓巷",
+          "tagId": "199132",
+          "latlon": "116.39213,39.93974",
+          "lat": "39.93974",
+          "lon": "116.39213"
+        }
+      ]
+    },
+    {
+      "tagsName": "机场车站",
+      "tagsId": "1",
+      "tagInfoList": [
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "首都机场1/2号航站楼",
+          "tagId": "42756",
+          "latlon": "116.58277,40.07814",
+          "lat": "40.07814",
+          "lon": "116.58277"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "首都机场3号航站楼",
+          "tagId": "1306726",
+          "latlon": "116.60363,40.05419",
+          "lat": "40.05419",
+          "lon": "116.60363"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "北京南苑机场",
+          "tagId": "390037",
+          "latlon": "116.38715,39.79107",
+          "lat": "39.79107",
+          "lon": "116.38715"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "北京西站",
+          "tagId": "115274",
+          "latlon": "116.31108,39.89468",
+          "lat": "39.89468",
+          "lon": "116.31108"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "北京站",
+          "tagId": "24296",
+          "latlon": "116.41627,39.9045",
+          "lat": "39.9045",
+          "lon": "116.41627"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "北京南站",
+          "tagId": "24282",
+          "latlon": "116.36629,39.86683",
+          "lat": "39.86683",
+          "lon": "116.36629"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "北京北站",
+          "tagId": "24479",
+          "latlon": "116.34296,39.9455",
+          "lat": "39.9455",
+          "lon": "116.34296"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "北京东站",
+          "tagId": "1013361",
+          "latlon": "116.42002,39.90451",
+          "lat": "39.90451",
+          "lon": "116.42002"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "东直门长途汽车站",
+          "tagId": "892579",
+          "latlon": "116.42761,39.94251",
+          "lat": "39.94251",
+          "lon": "116.42761"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "永定门长途汽车站",
+          "tagId": "921068",
+          "latlon": "116.37321,39.86847",
+          "lat": "39.86847",
+          "lon": "116.37321"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "木樨园长途汽车站",
+          "tagId": "940977",
+          "latlon": "116.39251,39.85143",
+          "lat": "39.85143",
+          "lon": "116.39251"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "四惠长途汽车站",
+          "tagId": "840494",
+          "latlon": "116.48715,39.90717",
+          "lat": "39.90717",
+          "lon": "116.48715"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "北京南站汽车站",
+          "tagId": "1457318",
+          "latlon": "116.3674,39.86549",
+          "lat": "39.86549",
+          "lon": "116.3674"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "西直门汽车客运站",
+          "tagId": "875633",
+          "latlon": "116.33525,39.94469",
+          "lat": "39.94469",
+          "lon": "116.33525"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "六里桥汽车客运站",
+          "tagId": "158279",
+          "latlon": "116.3003,39.88388",
+          "lat": "39.88388",
+          "lon": "116.3003"
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "4",
+          "tagName": "赵公口汽车客运站",
+          "tagId": "922347",
+          "latlon": "116.40066,39.85627",
+          "lat": "39.85627",
+          "lon": "116.40066"
+        }
+      ]
+    },
+    {
+      "tagsName": "行政区",
+      "tagsId": "3",
+      "tagInfoList": [
+        {
+          "HotelLevels": [],
+          "tagType": "3",
+          "tagName": "朝阳区",
+          "tagId": "640",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "3",
+          "tagName": "海淀区",
+          "tagId": "639",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "3",
+          "tagName": "密云县",
+          "tagId": "484",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "3",
+          "tagName": "东城区",
+          "tagId": "642",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "3",
+          "tagName": "丰台区",
+          "tagId": "645",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "3",
+          "tagName": "西城区",
+          "tagId": "641",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "3",
+          "tagName": "怀柔区",
+          "tagId": "652",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "3",
+          "tagName": "昌平区",
+          "tagId": "4135",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "3",
+          "tagName": "延庆县",
+          "tagId": "485",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "3",
+          "tagName": "顺义区",
+          "tagId": "651",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "3",
+          "tagName": "房山区",
+          "tagId": "648",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "HotelLevels": [],
+          "tagType": "3",
+          "tagName": "大兴区",
+          "tagId": "650",
+          "latlon": "",
+          "lat": "",
+          "lon": ""
+        },
+        {
+          "tagName": "通州区"
+        },
+        {
+          "tagName": "平谷区"
+        },
+        {
+          "tagName": "门头沟"
+        },
+        {
+          "tagName": "石景山区"
+        }
+      ]
+    },
+    {
+      "tagsName": "地铁线路",
+      "tagsId": "2",
+      "tagInfoList": [
+        {
+          "tagName": "四惠东"
+        },
+        {
+          "tagName": "四惠"
+        },
+        {
+          "tagName": "大望路"
+        },
+        {
+          "tagName": "国贸"
+        },
+        {
+          "tagName": "永安里"
+        },
+        {
+          "tagName": "建国门"
+        },
+        {
+          "tagName": "东单"
+        },
+        {
+          "tagName": "王府井"
+        },
+        {
+          "tagName": "天安门东"
+        }
+      ]
+    },
+    {
+      "tagsName": "热点酒店",
+      "tagsId": "9",
+      "tagInfoList": [
+        {
+          "tagName": "王府井周边"
+        },
+        {
+          "tagName": "新国展中心"
+        },
+        {
+          "tagName": "奥体中心"
+        }
+      ]
+    }
+  ]
+}
